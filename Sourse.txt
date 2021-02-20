@@ -1,0 +1,4 @@
+The location of this file i on D:
+its currently not a git file
+so lets go to this folder and initialize it as a git file
+
