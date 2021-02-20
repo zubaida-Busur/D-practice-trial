@@ -1,0 +1,5 @@
+This is asecond file and i want you to see how you will keep updating your projects 
+you dont have to repeat all the commands
+git init is only done once for each folder
+git remote add origin ... too is done once
+so lets push this change!
